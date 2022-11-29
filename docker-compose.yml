@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+ skeptic-dialogue:
+  container_name: skeptic-dialogue
+  build: .
+  ports:
+  - "8000:5000"
