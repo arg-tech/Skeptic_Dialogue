@@ -101,7 +101,6 @@ class SkepticDialogue:
         
         for i in range(len(attrs)):
             if len(attrs[i]) > 0: 
-              
                 for j in range(len(attrs[i])):
                     if(attrs[i][j][0] == 'id'):
                         #the att[i][j] contains the "node" attribute of the <span> tag. The "node" prefix is then removed
@@ -138,10 +137,12 @@ class SkepticDialogue:
         return text
         
     """
-    This method takes as input a filename that points to a Json file which is the result of 
-    the Skeptic service and returns an array of tuples, where each tuple contains the nodeID of
-    the locution after which there must be a prompt from the agent, and the text of that prompt.
-
+    This method takes as input a json object with the data that contain the result of 
+    the Skeptic service and returns the dialogue that includes the Skeptic interventions
+    in specific points. In particular, for each row in the "questions" object, if the
+    referred aif node is an S-node, the potential question moves appear after the most recent locution
+    related to this S-node, otherwise, if it is an I-node, the question is added after the
+    connected L-node.
     """
     def generate_dialogue(self, data):
         prompts = []
