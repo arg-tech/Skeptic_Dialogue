@@ -125,13 +125,13 @@ class SkepticDialogue:
             loc_prompts = self.has_prompt(locID, prompts)
             for lp in loc_prompts:
                 if(lp[1] == 'proposition'):
-                    prompt = "   [AVAILABLE MOVE] DEBIASING AGENT: " + lp[0]
+                    prompt = "   [AVAILABLE MOVE] ACCEPTABILITY AGENT: " + lp[0]
                     text = text + prompt + "\n"
                 elif(lp[1] == 'structure'):
-                    prompt = "   [AVAILABLE MOVE] BIAS AGENT: " + lp[0]
+                    prompt = "   [AVAILABLE MOVE] DEBIAS AGENT: " + lp[0]
                     text = text + prompt + "\n"
                 elif(lp[1] == 'scheme'):
-                    prompt = "   [AVAILABLE MOVE] CRITIC AGENT: " + lp[0]
+                    prompt = "   [AVAILABLE MOVE] JUSTIFICATION AGENT: " + lp[0]
                     text = text + prompt + "\n"
         return text
         

@@ -1,0 +1,69 @@
+- Female 1: we'll need the space blanket or something like that
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement consistent with previous proposals?
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this policy appropriate for this objective?
+- Female 1: you can sleep
+- Male 4: not cook
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
+- Male 2: Also important
+- Female 1: not cook
+- Male 2: you make, like, a tent
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement consistent with previous proposals?
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this policy appropriate for this objective?
+- Male 2: It's only four people
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
+- Male 2: with the parachute, you might be able to fit
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
+- Female 1: it's made out of silk which is quite thin
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
+- Female 1:  the light is surely going to shine through that
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
+- Male 1:  the space blanket has a metallic reflecting layer
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
+- Male 4: it's insulating
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
+- Male 4: it's not thus creating shade
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
+- Male 4: given that as a junior expert
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
+- Male 4: I can tell you
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
+   [AVAILABLE MOVE] JUSTIFICATION AGENT: How credible is the source as an expert?
+   [AVAILABLE MOVE] JUSTIFICATION AGENT: Is the source an expert in a relevant field?
+   [AVAILABLE MOVE] JUSTIFICATION AGENT: What did the source assert that implies this claim?
+   [AVAILABLE MOVE] JUSTIFICATION AGENT: Is the source personally reliable?
+   [AVAILABLE MOVE] JUSTIFICATION AGENT: Is the claim consistent with what other experts assert?
+   [AVAILABLE MOVE] JUSTIFICATION AGENT: Is the source’s assertion based on evidence?
+- Male 4: the blurb tells us that the temperature range on the Moon is a hundred…minus 193 degrees centigrade to plus 111
+- Male 4: if it plunges to 193 the minute…minus 193
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
+- Male 4:  the minute you get in to the shade, you, kind of, need insulation
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Does this statement reflect a popularly held value?
+- Male 4:  I would recommend the space blanket over the parachute
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement consistent with previous proposals?
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this policy appropriate for this objective?
+- Male 4: it's designed to look after you in those extreme conditions
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
+- Male 1: Do we need the parachute for anything
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement consistent with previous proposals?
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this policy appropriate for this objective?
+- Male 1: Are we going BASE jumping
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
+- Male 2: it, kind of, is handy as a back up sled and as a shade
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Does this statement reflect a popularly held value?
+- Male 3: It's not clear how much space blanket we have
+- Male 2:  we only have one
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
+- Male 4: It'll be enough for all of us
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Does this statement reflect a popularly held value?
+   [AVAILABLE MOVE] DEBIAS AGENT: Could there be any reasons for rejecting this proposition?
+   [AVAILABLE MOVE] DEBIAS AGENT: Is there any counter-argument against this claim?
+- Male 3: For all
+- Male 1: There'll be enough for everyone
+- Male 2: It says one
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
+   [AVAILABLE MOVE] DEBIAS AGENT: Could there be any reasons for accepting this proposition?
+   [AVAILABLE MOVE] DEBIAS AGENT: Is there any argument in support of this claim?
+- Male 4: A huge space blanket
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
+- Male 1: It doesn't say one
+   [AVAILABLE MOVE] ACCEPTABILITY AGENT: Is this statement actually true?
